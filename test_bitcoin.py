@@ -1,8 +1,9 @@
+
 import unittest
 from unittest import TestCase
 from unittest.mock import patch, call
 
-import bitcoin_exchange
+import bitcoin_exchange  
 
 class BitcoinExchangeTestCase(TestCase):
 
